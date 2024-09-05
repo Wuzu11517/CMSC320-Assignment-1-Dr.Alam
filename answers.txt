@@ -8,4 +8,4 @@ Answer: A field data science could be applied to would be healthcare. It can be 
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: Merging will combine the histories of 2 branches onto a single branch while rebase will create a linear history by moving one branch in front of the othergi
+Answer: Merging will combine the histories of 2 branches onto a single branch while rebase will create a linear history by moving one branch in front of the others
