@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: It is a great way to share and store code online so that you are able to use for later or collaborate with other people.
+
