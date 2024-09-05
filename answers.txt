@@ -5,3 +5,7 @@ Answer: It is a great way to share and store code online so that you are able to
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: A field data science could be applied to would be healthcare. It can be used to identify and predict diseases.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging will combine the histories of 2 branches onto a single branch while rebase will create a linear history by moving one branch in front of the othergi
